@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+google-generativeai
+pdfplumber
+jinja2
